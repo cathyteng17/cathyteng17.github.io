@@ -9,23 +9,18 @@ h1 {
 }
 
 /* navbar */
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.navbar {
   overflow: hidden;
   background-color: white;
+  width: 100%;
   position: -webkit-sticky;
   position: sticky;
   transition: 0.5s;
 }
 
-nav li {
-  float: left;
-}
-
-li a {
+.navbar a {
   display: block;
+  float: left;
   color: black;
   text-align: center;
   padding: 14px 16px;
@@ -35,7 +30,12 @@ li a {
 /* Change the link color to #111 (black) on hover */
 nav li a:hover {
   background-color: purple;
+  color: white;
   transition: 0.5s;
+}
+
+.main {
+  margin-top: 30px;
 }
 
 #about {
