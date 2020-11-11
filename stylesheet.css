@@ -9,7 +9,7 @@ h1 {
 }
 
 /* navbar */
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -20,7 +20,7 @@ ul {
   transition: 0.5s;
 }
 
-li {
+nav li {
   float: left;
 }
 
@@ -33,11 +33,11 @@ li a {
 }
 
 /* Change the link color to #111 (black) on hover */
-li a:hover {
+nav li a:hover {
   background-color: purple;
   transition: 0.5s;
 }
 
-.about {
+#about {
   transition: 0.5s;
 }
