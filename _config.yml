@@ -3,7 +3,7 @@ title: Cathy
 subtitle: Teng
 email: chteng@princeton.edu
 description: Cathy Teng
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Cathy Teng
 street_address: 6789 Frist Campus Center
@@ -18,11 +18,9 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
 facebook_url: https://www.facebook.com/cathy.teng.754/
 github_url: https://github.com/cathyteng17
 gitlab_url:
-googleplus_url:
 instagram_url: https://instagram.com/cattyteng
 linkedin_url: https://www.linkedin.com/in/cathyteng
 pinterest_url:

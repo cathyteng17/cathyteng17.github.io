@@ -22,9 +22,9 @@
 				</ul>
 			</form>
 		</section>
-		-->
 
-		<section class="split">
+
+		<section>
 			<section>
 				<div class="contact-method">
 					<span class="icon alt fa-envelope"></span>
@@ -65,6 +65,7 @@
 		</section>
 	</div>
 </section>
+-->
 
 <!-- Footer -->
 	<footer id="footer">
@@ -72,9 +73,6 @@
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
-				{% endif %}
-				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 				{% endif %}
 				{% if site.facebook_url %}
 				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
@@ -86,10 +84,7 @@
 				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
 				{% endif %}
 				{% if site.email %}
-				<li><a href="mailto:{{ site.email }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+				<li><a href="mailto:{{ site.email }}" class="icon alt fa-envelope-o" target="_blank"><span class="label">Email</span></a></li>
 				{% endif %}
 				{% if site.gitlab_url %}
 				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
