@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: About
 nav-menu: true
 ---
 
@@ -11,12 +11,14 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About</h1>
 		</header>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!-- Normal full page -->
+<!-- <h2 id="content">Sample Content</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p> -->
+
+<!-- two columns
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
@@ -25,8 +27,10 @@ nav-menu: true
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
 		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
+	</div> -->
 	<!-- Break -->
+
+	<!-- normal content
 	<div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -38,7 +42,7 @@ nav-menu: true
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+	</div> -->
 </div>
 
 <hr class="major" />
@@ -93,7 +97,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Felis dolore viverra.</li>
 		</ol>
 
-		<h4>Icons</h4>
+		<!--ICONS: tiny icons-->
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
@@ -101,11 +105,14 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>
 			<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>
 			<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>
+			<li><a href="#" class="icon fa-envelope-o"><span class="label">Mail</span></a></li>
 		</ul>
+		<!--bigger icons-->
 		<ul class="icons">
 			<li><a href="#" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
+			<li><a href="#" class="icon alt fa-envelope-o"><span class="label">Mail</span></a></li>
 		</ul>
 
 	</div>
