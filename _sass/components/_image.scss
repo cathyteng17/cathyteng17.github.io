@@ -10,6 +10,17 @@ img {
     max-width: 100%;
 }
 
+.block {
+  &.image {
+    display: inline-block;
+    vertical-align: top;
+    height: 100px;
+  }
+  &.text {
+    display: inline-block;
+  }
+}
+
 .image {
 		border: 0;
 		display: inline-block;

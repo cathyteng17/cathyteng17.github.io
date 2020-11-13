@@ -16,18 +16,21 @@ nav-menu: true
 			<h1>Work Experience</h1>
 		</header>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/princeton.png %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/princeton.png %}" alt="" height="100" />
+  <div class="block text">
   <b>Princeton University Department of Computer Science<b>
   <br>COS 226 Grader (Feb 2020 - Present)
   <ul>
     <li>Grades Algorithms & Data Structures assignments</li>
   </ul>
   </div>
+  </div>
   </p>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/hmei-logo.svg %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/hmei-logo.svg %}" alt="" height="100" />
+  <div class="block text">
   <b>High Meadows Environmental Institute</b>
   <br>Summer Intern (May - Aug 2020)
   <ul>
@@ -37,20 +40,24 @@ nav-menu: true
     <li>Conducted a literature review of relevant research in social network dilemmas, perception biases, and evolutionary game theory</li>
   </ul>
   </div>
+  </div>
   </p>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/princeton.png %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/princeton.png %}" alt="" height="100" />
+  <div class="block text">
   <b>Princeton University Office of Sustainability</b>
   <br>Ecology Representative (May 2019 - Aug 2020)
   <ul>
     <li>Promoted and executed initiatives to “green” athletic events and spaces on campus</li>
   </ul>
   </div>
+  </div>
   </p>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/nih-logo.png %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/nih-logo.png %}" alt="" height="100" />
+  <div class="block text">
   <b>NIH Office of Human Resources</b>
   <br>VSFS Intern (Sep 2019 - May 2020)
   <ul>
@@ -58,10 +65,12 @@ nav-menu: true
     <li>Made NIH report PDFs section 508-compliant</li>
   </ul>
   </div>
+  </div>
   </p>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/sk.png %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/sk.png %}" alt="" height="100" />
+  <div class="block text">
   <b>Steve & Kate's Camp San Jose</b>
   <br>Coding & Robotics Studio Lead (May 2019 - Aug 2020)
   <ul>
@@ -69,14 +78,16 @@ nav-menu: true
     <li>Guided kids to solve problems on Scratch Jr, Steve & Kate’s Coding Studio app, and iPads</li>
   </ul>
   </div>
+  </div>
   </p>
 
   <header class="major">
     <h1>Volunteer Experience</h1>
   </header>
 
-  <p><img style='vertical-align:middle;' src="{% link assets/images/cityteam.png %}" alt="" height="100" />
-  <div style='vertical-align:middle; display:inline;'>
+  <p><div class="block">
+  <img class="block image" src="{% link assets/images/cityteam.png %}" alt="" height="100" />
+  <div class="block text">
   <b>CityTeam San Jose</b>
   <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
   <ul>
@@ -84,6 +95,7 @@ nav-menu: true
     <li>Prepared meals in the kitchen for patrons</li>
     <li>Translated Chinese at front desk</li>
   </ul>
+  </div>
   </div>
   </p>
 
