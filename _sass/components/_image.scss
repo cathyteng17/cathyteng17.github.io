@@ -19,24 +19,17 @@ img {
 			display: block;
 		}
 
-    &.block {
-      display: inline-block;
-      max-width: 50%;
-      margin: 20px;
-    }
-
 		&.left,
 		&.right {
-      img {
-        width: 100px;
-        height: auto;
-        vertical-align: top;
-        display: inline-block;
+			max-width: 30%;
+
+			img {
+				width: 100%;
 			}
 		}
 
 		&.left {
-			/*float: left;*/
+			float: left;
 			margin: 0 1.5em 1.25em 0;
 			top: 0.25em;
 		}
