@@ -19,6 +19,11 @@ img {
 			display: block;
 		}
 
+    &.block {
+      display: inline-block;
+      width: 50%;
+    }
+
 		&.left,
 		&.right {
       img {
@@ -26,10 +31,8 @@ img {
 				height: 100px;
         width: auto;
         max-width: 30%;
+        vertical-align: top;
 			}
-      
-      display: inline-block;
-      max-width: 70%;
 		}
 
 		&.left {
