@@ -21,10 +21,15 @@ img {
 
 		&.left,
 		&.right {
-
-			img {
+      img {
+        display: inline-block;
 				height: 100px;
+        width: auto;
+        max-width: 30%;
 			}
+      
+      display: inline-block;
+      max-width: 70%;
 		}
 
 		&.left {
