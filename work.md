@@ -46,19 +46,23 @@ nav-menu: true
   <p><span class="image left"><img src="{% link assets/images/nih-logo.png %}" alt="" /></span>
   <b>NIH Office of Human Resources</b>
   <br>VSFS Intern (Sep 2019 - May 2020)
+  <div style = "display: inline-block;">
   <ul>
     <li>Digitized and reformat human resources PDF documents to an accessible web format using Drupal</li>
     <li>Made NIH report PDFs section 508-compliant</li>
   </ul>
+  </div>
   </p>
 
   <p><span class="image left"><img src="{% link assets/images/sk.png %}" alt="" /></span>
+  <div style = "display: inline-block;">
   <b>Steve & Kate's Camp San Jose</b>
   <br>Coding & Robotics Studio Lead (May 2019 - Aug 2020)
   <ul>
     <li>Taught and helped kids to build with Sphero and Mabot robotics kits</li>
     <li>Guided kids to solve problems on Scratch Jr, Steve & Kate’s Coding Studio app, and iPads</li>
   </ul>
+  </div>
   </p>
 
 </div>
@@ -70,14 +74,16 @@ nav-menu: true
       <h1>Volunteer Experience</h1>
     </header>
 
-    <p><span class="image left" style = "vertical-align:middle;"><img src="{% link assets/images/cityteam.png %}" alt="" /></span>
+    <p><span class="image left"><img src="{% link assets/images/cityteam.png %}" alt="" /></span>
     <b>CityTeam San Jose</b>
     <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
+    <div style = "display: block;">
     <ul>
       <li>Sorted, organized, and distributed food donations and clothing</li>
       <li>Prepared meals in the kitchen for patrons</li>
       <li>Translated Chinese at front desk</li>
     </ul>
+    </div>
     </p>
 
 </div>
