@@ -76,22 +76,28 @@ nav-menu: true
   </div>
   </p>
 
-  <header class="major">
-    <h1>Volunteer Experience</h1>
-  </header>
+</div>
+</section>
 
-  <p><div class = "image left"><img src="{% link assets/images/cityteam.png %}" alt="" />
-  <div class ="image block">
-  <b>CityTeam San Jose</b>
-  <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
-  <ul>
-    <li>Sorted, organized, and distributed food donations and clothing</li>
-    <li>Prepared meals in the kitchen for patrons</li>
-    <li>Translated Chinese at front desk</li>
-  </ul>
-  </div>
-  </div>
-  </p>
+<section id="two">
+	<div class="inner">
+    <header class="major">
+      <h1>Volunteer Experience</h1>
+    </header>
 
+    <p><div class = "image left"><img src="{% link assets/images/cityteam.png %}" alt="" />
+    <div class ="image block">
+    <b>CityTeam San Jose</b>
+    <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
+    <ul>
+      <li>Sorted, organized, and distributed food donations and clothing</li>
+      <li>Prepared meals in the kitchen for patrons</li>
+      <li>Translated Chinese at front desk</li>
+    </ul>
+    </div>
+    </div>
+    </p>
+
+</section>
 </div>
 </div>
