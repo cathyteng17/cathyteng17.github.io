@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Work
 description: Lorem ipsum dolor est
 image: #assets/images/pic11.jpg

@@ -18,15 +18,16 @@ nav-menu: true
 <!-- <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p> -->
 
-<!-- two columns
+<!-- two columns -- >
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Education</h3>
+		<p>I am currently a junior in the computer science department at Princeton University and considering certificates in Environmental Science and Engineering Biology.
+</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Interests</h3>
+		<p>I am passionate about the environment and website/application interface design. I swim in my spare time and try to ignore my shin splints when I go for runs. I love classic movies and anything to do with period pieces. I also seriously listen to K-pop and eat almost all non-spicy foods. I used to consider getting a minor in piano performance but then abruptly retired that idea my freshman year of high school. I have an unending stomach and am probably eating a (healthy) snack right now. Pray for my wallet.</p>
 	</div> -->
 	<!-- Break -->
 
