@@ -26,19 +26,18 @@ img {
 			img {
         width: 100px;
         height: auto;
+        max-width: 48%;
 			}
 		}
 
 		&.left {
 			float: left;
 			margin: 0 1.5em 1.25em 0;
-			top: 0.25em;
 		}
 
 		&.right {
 			float: right;
 			margin: 0 0 1.25em 1.5em;
-			top: 0.25em;
 		}
 
 		&.fit {
