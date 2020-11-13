@@ -14,7 +14,7 @@ nav-menu: true
 			<h1>About</h1>
 		</header>
 
-<!-- two columns -- >
+<!-- two columns -->
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Education</h3>
