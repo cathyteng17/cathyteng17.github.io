@@ -4,7 +4,7 @@ subtitle: Teng
 email: chteng@princeton.edu
 description: Cathy Teng
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://cathyteng17.github.io/ # the base hostname & protocol for your site
 author: Cathy Teng
 street_address: 6789 Frist Campus Center
 city: Princeton
