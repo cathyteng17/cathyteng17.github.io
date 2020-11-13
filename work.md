@@ -16,7 +16,7 @@ nav-menu: true
 			<h1>Work Experience</h1>
 		</header>
 
-  <p><div class = "image left"><img src="{% link assets/images/princeton.png %}" alt="" />
+  <p><div class="image"><img class="image left" src="{% link assets/images/princeton.png %}" alt="" />
   <div class ="image block">
   <b>Princeton University Department of Computer Science</b>
   <br>COS 226 Grader (Feb 2020 - Present)
@@ -27,7 +27,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><div class = "image left"><img src="{% link assets/images/hmei-logo.svg %}" alt="" />
+  <p><div class="image"><img class="image left" src="{% link assets/images/hmei-logo.svg %}" alt="" />
   <div class ="image block">
   <b>High Meadows Environmental Institute</b>
   <br>Summer Intern (May - Aug 2020)
@@ -41,7 +41,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><div class = "image left"><img  src="{% link assets/images/princeton.png %}" alt="" />
+  <p><div class="image"><img class="image left" src="{% link assets/images/princeton.png %}" alt="" />
   <div class ="image block">
   <b>Princeton University Office of Sustainability</b>
   <br>Ecology Representative (May 2019 - Aug 2020)
@@ -52,7 +52,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><div class = "image left"><img src="{% link assets/images/nih-logo.png %}" alt="" />
+  <p><div class="image"><img class="image left" src="{% link assets/images/nih-logo.png %}" alt="" />
   <div class ="image block">
   <b>NIH Office of Human Resources</b>
   <br>VSFS Intern (Sep 2019 - May 2020)
@@ -64,7 +64,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><div class = "image left"><img src="{% link assets/images/sk.png %}" alt="" />
+  <p><div class="image"><img class="image left" src="{% link assets/images/sk.png %}" alt="" />
   <div class ="image block">
   <b>Steve & Kate's Camp San Jose</b>
   <br>Coding & Robotics Studio Lead (May 2019 - Aug 2020)
@@ -85,7 +85,7 @@ nav-menu: true
       <h1>Volunteer Experience</h1>
     </header>
 
-    <p><div class = "image left"><img src="{% link assets/images/cityteam.png %}" alt="" />
+    <p><div class="image"><img class="image left" src="{% link assets/images/cityteam.png %}" alt="" />
     <div class ="image block">
     <b>CityTeam San Jose</b>
     <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
