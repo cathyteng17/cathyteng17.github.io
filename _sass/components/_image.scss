@@ -20,14 +20,14 @@ img {
 		}
 
     &.block {
-      display: inline-block;
-      width: 50%;
+      display: block;
+      max-width: 50%;
+      float: right;
     }
 
 		&.left,
 		&.right {
       img {
-        display: inline-block;
 				height: 100px;
         width: auto;
         max-width: 30%;
