@@ -16,8 +16,7 @@ nav-menu: true
 			<h1>Work Experience</h1>
 		</header>
 
-  <p><img src="{% link assets/images/princeton.png %}" alt="" height="200" />
-  <span>
+  <p><span class = "image left"><img src="{% link assets/images/princeton.png %}" alt="" height="100" />
   <h3>Princeton University Department of Computer Science</h3>
   <br><h4>COS 226 Grader (Feb 2020 - Present)</h4>
   <br><ul>
@@ -26,7 +25,7 @@ nav-menu: true
   </span>
   </p>
 
-  <p><img src="{% link assets/images/hmei-logo.svg %}" alt="" height="200" />
+  <p><img src="{% link assets/images/hmei-logo.svg %}" alt="" height="100" />
   <span>
   <h3>High Meadows Environmental Institute</h3>
   <br><h4>Summer Intern (May - Aug 2020)</h4>
@@ -39,7 +38,7 @@ nav-menu: true
   </span>
   </p>
 
-  <p><img src="{% link assets/images/princeton.png %}" alt="" height="200" />
+  <p><img src="{% link assets/images/princeton.png %}" alt="" height="100" />
   <span>
   <h3>Princeton University Office of Sustainability</h3>
   <br><h4>Ecology Representative (May 2019 - Aug 2020)</h4>
@@ -49,7 +48,7 @@ nav-menu: true
   </span>
   </p>
 
-  <p><img src="{% link assets/images/nih-logo.png %}" alt="" height="200" />
+  <p><img src="{% link assets/images/nih-logo.png %}" alt="" height="100" />
   <span>
   <h3>NIH Office of Human Resources</h3>
   <br><h4>VSFS Intern (Sep 2019 - May 2020)
@@ -60,7 +59,7 @@ nav-menu: true
   </span>
   </p>
 
-  <p><img src="{% link assets/images/sk.png %}" alt="" height="200" />
+  <p><img src="{% link assets/images/sk.png %}" alt="" height="100" />
   <span>
   <h3>Steve & Kate's Camp San Jose</h3>
   <br><h4>Coding & Robotics Studio Lead (May 2019 - Aug 2020)</h4>
@@ -75,7 +74,7 @@ nav-menu: true
     <h1>Volunteer Experience</h1>
   </header>
 
-  <p><img src="{% link assets/images/cityteam.png %}" alt="" height="200" />
+  <p><img src="{% link assets/images/cityteam.png %}" alt="" height="100" />
   <span>
   <h3>CityTeam San Jose</h3>
   <br><h4>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)</h4>
