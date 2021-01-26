@@ -19,9 +19,13 @@ nav-menu: true
 	<p><h3>Technical</h3>
 	<ul>
 		<li>Proficient</li>
+		<ul>
 			<li>Java, R, Google Suite, Microsoft Suite, C, Python</li>
+		</ul>
 		<li>Familiar</li>
+		<ul>
 			<li>GO, MATLAB, Drupal, HTML, CSS</li>
+		</ul>
 	</ul>
 	</p>
 
