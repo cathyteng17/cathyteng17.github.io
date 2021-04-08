@@ -1,7 +1,7 @@
 ---
 title: Gallery
 layout: landing
-description:
+description: things i've created
 image: #assets/images/pic07.jpg
 nav-menu: true
 ---

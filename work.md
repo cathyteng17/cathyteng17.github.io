@@ -16,14 +16,14 @@ nav-menu: true
       <h1>Education</h1>
     </header>
 
-    <p><span class="image right"><img src="{% link assets/images/princeton-p.png %}" alt="" /></span>
+    <p>
+		<span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/princeton-p.png %}" alt="" /></span>
     <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
     <b>Princeton University</b>
     <br>B.S.E. Computer Science with Certificates in Environmental Studies and Engineering Biology (2018-2022)
     <ul>
-      <li>Technical Coursework: Algorithms & Data Structures, Programming Systems, Data Science, Economics & Computing, Reasoning About Computation, Multivariable Calculus, Linear Algebra, Principles of Computer System Design, Genomics & Computational Biology, Intro to Data Science</li>
-      <li>Other Coursework: General Physics, General Chemistry I, Intro to Archaeology, Social Psychology, Fundamentals of Neuroscience, Asian American History, Medical Anthropology, The Environmental Nexus, Climate: Past, Present, and Future, Elementary Korean, Art Making</li>
-      <li>Activities: Nassau Literary Review (Webmaster), Princeton University Energy Association (Tech Committee), Engineering Council (Technology Chair)</li>
+      <li>Technical Coursework: Algorithms & Data Structures, Programming Systems, Data Science, Game Theory, Discrete Math, Multivariable Calculus, Linear Algebra, Computer System Design, Genomics & Comp. Bio, Data Science, Algorithms for Comp. Bio</li>
+      <li>Activities: Varsity Swimming & Diving, Princeton University Energy Association, Nassau Literary Review, Princeton Corporate Finance Club, Engineering Council, EcoReps</li>
     </ul>
     </div>
     </p>
@@ -37,17 +37,48 @@ nav-menu: true
 			<h1>Work Experience</h1>
 		</header>
 
-  <p><span class="image right"><img src="{% link assets/images/princeton-shield.png %}" alt="" /></span>
+	<p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/unic-logo.png %}" alt="" /></span>
+	<div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
+	<b>Marine & Carbon Lab at the University of Nicosia</b>
+	<br>Summer Intern (Incoming June - July 2021)
+	<ul>
+		<li>Will be assisting in the identification of marine debris using AI and neural networks</li>
+	</ul>
+	</div>
+	</p>
+
+	<p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/princeton-p.png %}" alt="" /></span>
+	<div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
+	<b>African School of Economics</b>
+	<br>Website Assistant (Mar 2021 - present)
+	<ul>
+		<li>Helping develop <a href="https://pasrc.princeton.edu/">pasrc.princeton.edu</a> using Drupal</li>
+	</ul>
+	</div>
+	</p>
+
+	<p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/vis-logo.jpeg %}" alt="" /></span>
+	<div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
+	<b>Voice in Sport</b>
+	<br>Platform Development Intern (Jan 2021 - present)
+	<ul>
+		<li>Helping develop native web platform on <a href="http://voiceinsport.com/">voiceinsport.com</a> using Ruby on Rails, CSS, HTML</li>
+		<li>Developing native app</li>
+	</ul>
+	</div>
+	</p>
+
+	<p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/princeton-p.png %}" alt="" /></span>
   <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
   <b>Princeton University Department of Computer Science</b>
-  <br>COS 226 Grader (Feb 2020 - Present)
+  <br>COS 226 Grader (Feb 2020 - Dec 2020)
   <ul>
-    <li>Grades Algorithms & Data Structures assignments</li>
+    <li>Graded Algorithms & Data Structures assignments</li>
   </ul>
   </div>
   </p>
 
-  <p><span class="image right"><img src="{% link assets/images/hmei-logo.jpeg %}" alt="" /></span>
+  <p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/hmei-logo.jpeg %}" alt="" /></span>
   <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
   <b>High Meadows Environmental Institute</b>
   <br>Summer Intern (May - Aug 2020)
@@ -60,7 +91,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><span class="image right"><img src="{% link assets/images/princeton-shield.png %}" alt="" /></span>
+  <p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/princeton-p.png %}" alt="" /></span>
   <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
   <b>Princeton University Office of Sustainability</b>
   <br>Ecology Representative (May 2019 - Aug 2020)
@@ -70,7 +101,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><span class="image right"><img src="{% link assets/images/nih-logo.png %}" alt="" /></span>
+  <p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/nih-logo.png %}" alt="" /></span>
   <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
   <b>NIH Office of Human Resources</b>
   <br>VSFS Intern (Sep 2019 - May 2020)
@@ -82,7 +113,7 @@ nav-menu: true
   </div>
   </p>
 
-  <p><span class="image right"><img src="{% link assets/images/sk.png %}" alt="" /></span>
+  <p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/sk.png %}" alt="" /></span>
   <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
   <b>Steve & Kate's Camp San Jose</b>
   <br>Coding & Robotics Studio Lead (May 2019 - Aug 2020)
@@ -102,7 +133,7 @@ nav-menu: true
       <h1>Volunteer Experience</h1>
     </header>
 
-    <p><span class="image right"><img src="{% link assets/images/cityteam.png %}" alt="" /></span>
+    <p><span class="image left" style="margin-right: 50px; width: 100px; "><img src="{% link assets/images/cityteam.png %}" alt="" /></span>
     <div style = "display: inline-block; max-width: 60%; vertical-align: middle;">
     <b>CityTeam San Jose</b>
     <br>Translator, Receptionist, & Community Services Volunteer (Sep 2014 - Apr 2018)
